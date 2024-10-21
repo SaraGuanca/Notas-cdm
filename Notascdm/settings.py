@@ -38,7 +38,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
 
-    'notascdm_app.apps.NotascdmAppConfig'
+    'notascdm_app.apps.NotascdmAppConfig',
 ]
 
 MIDDLEWARE = [
