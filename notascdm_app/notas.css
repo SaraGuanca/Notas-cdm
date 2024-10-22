@@ -1,0 +1,13 @@
+.tabla{
+    border=3;
+    background-color: #AFEEEE;
+}
+body{
+    background-color: #8fbc8b;
+}
+th{
+    width:150px
+}
+td{
+    width:150px
+}
